@@ -9,7 +9,7 @@ This repository contains the LORIS Python API client, a Python client to interac
 To install this project, use the following command:
 
 ```sh
-pip install git+https://github.com/aces/loris-python-client.git@26.0
+pip install git+https://github.com/aces/loris-python-client.git@27.0
 ```
 
 ## Example
